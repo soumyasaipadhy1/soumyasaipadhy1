@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Soumya 👋
-Data Analyst with a passion for data visualization and analysis. I specialize in transforming data into actionable insights using tools like SQL, Python, Power BI, Tableau, and Advanced Excel.
+Driven by a passion for transforming data into actionable insights, I thrive on using advanced analysis and visualization techniques to solve real-world problems. I am eager to collaborate on projects that leverage data to drive business decisions and enhance operational efficiency. Constantly learning and adapting, I am motivated by the endless possibilities and impact that data analytics offers.
 
 ## About Me
 - Hi! My name is Soumya Sai Padhy from Berhampur.
