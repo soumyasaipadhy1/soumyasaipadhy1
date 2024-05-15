@@ -1,6 +1,9 @@
 ## 👋 Hi there, I'm Soumya 👋
 Driven by a passion for transforming data into actionable insights, I thrive on using advanced analysis and visualization techniques to solve real-world problems. I am eager to collaborate on projects that leverage data to drive business decisions and enhance operational efficiency. Constantly learning and adapting, I am motivated by the endless possibilities and impact that data analytics offers.
 
+-    ![echelon-data-quipo](https://github.com/soumyasaipadhy1/soumyasaipadhy1/assets/143524714/3593db0a-c279-46e7-9384-75383b1aaae4)
+
+
 ## About Me
 - Hi! My name is Soumya Sai Padhy from Berhampur.
 - I’m a Data Analyst with a passion for data visualization and analysis.
