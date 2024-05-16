@@ -1,6 +1,4 @@
 - ![echelon-data-quipo](https://github.com/soumyasaipadhy1/soumyasaipadhy1/assets/143524714/3593db0a-c279-46e7-9384-75383b1aaae4)
-
-
 ## 👋 Hi there, I'm Soumya 👋
 Result-oriented professional with robust data visualization skills, seeking a challenging role as a Data Analyst. Adept at leveraging visualization techniques and data-driven experience to extract actionable insights. Proficient in SQL, Python, Power BI, Tableau, and Advanced Excel. Strong critical thinking skills for analyzing and identifying patterns in diverse datasets.
 
