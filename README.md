@@ -1,4 +1,4 @@
-  ![echelon-data-quipo](https://github.com/soumyasaipadhy1/soumyasaipadhy1/assets/143524714/3593db0a-c279-46e7-9384-75383b1aaae4)
+## ![echelon-data-quipo](https://github.com/soumyasaipadhy1/soumyasaipadhy1/assets/143524714/3593db0a-c279-46e7-9384-75383b1aaae4)
 
 
 ## 👋 Hi there, I'm Soumya 👋
